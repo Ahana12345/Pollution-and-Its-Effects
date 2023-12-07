@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    font-size: 15px;
+    font-family: cursive;
+    background-color: rgb(253, 53, 103);
+  }
+  img{
+    width: 300px;
+    height: 250px;
+    border:10px solid;
+     border-radius: 25px;
+  }
+  h1 {
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: fantasy;
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+    .line
+{
+  height:6px;
+  width: 100px;
+  background-color:black;
+  margin: 10px auto;
+}
+a{
+    font-size:20px;
+    font-weight:bold;
+  }
+  
